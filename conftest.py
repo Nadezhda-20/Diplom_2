@@ -49,8 +49,8 @@ def user_data():
 @pytest.fixture
 def existing_user_data():
     return {
-        "email": "naduwka20@mail.ru",
-        "password": "12345",
+        "email": "naduwka@mail.ru",
+        "password": "12345@",
         "name": "Надежда"
     }
 
