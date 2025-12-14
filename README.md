@@ -42,9 +42,4 @@ Diplom_2/
 └── README.md # Документация
 ## Установка и запуск
 
-### 1. Клонирование репозитория
-```bash
-git clone https://github.com/Nadezhda-20/Diplom_2.git
-cd Diplom_2
-git checkout develop2
 Allure- отчет http://127.0.0.1:63235/ 
