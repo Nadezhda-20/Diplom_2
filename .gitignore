@@ -9,6 +9,7 @@ env/
 .coverage
 allure-results/
 allure-report/
+allure-report*/
 .vscode/
 .idea/
 *.swp
